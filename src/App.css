@@ -1,0 +1,23 @@
+.display{
+  display: flex;
+}
+.header{
+  width: 100%;
+}
+.post-card {
+  margin: 20px 50px;
+}
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.welcome-message{
+  margin: 100px 0;
+}
+
+.main-table-container{
+  width: 100%;
+  height: 700px;
+  overflow-y: scroll;
+}
