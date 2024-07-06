@@ -41,8 +41,8 @@ const handleSubmit = (event) => {
       <textarea type="text-area" ref={postBodyElement} rows = "4" className="form-control" placeholder= "How are you feeling today" id="body">
     </textarea>
     </div>
-    <button type="button" className="btn btn-success" onClick={handleSubmit} >Submit 
-</button>
+   {/* <button type="button" className="btn btn-success" onClick={handleSubmit} >Submit 
+</button> */}
   </form>
 }
 
